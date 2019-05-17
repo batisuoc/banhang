@@ -25,17 +25,17 @@
                         </div>
                         <div class="content">
                             <h4><a href="blog-post.html"><?= $row['TieuDe'] ?></a></h4>
-                            </p>
-                            <p class="intro"><?= $row['TomTat'] ?></p>
-                            <p class="read-more"><a href="blog-post.html" class="btn btn-template-main">Xem tiếp</a>
+                            <p>
+                                <p class="intro"><?= $row['TomTat'] ?></p>
+                                <p class="read-more"><a href="blog-post.html" class="btn btn-template-main">Xem tiếp</a>
                             </p>
                         </div>
                     </div>
-                    <!-- /.box-image-text -->
+                <!-- /.box-image-text -->
                 </div>
-                <?php} ?>
-                <!-- /.row -->
-                <!-- *** BLOG HOMEPAGE END *** -->
-            </div>
+            <?php } ?>
+        <!-- /.row -->   
         </div>
+    <!-- *** BLOG HOMEPAGE END *** -->
     </div>
+</div>

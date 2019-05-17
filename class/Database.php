@@ -1,6 +1,6 @@
 <?php
 
-require_once '../config.php';
+require_once 'config.php';
 
 class Database
 {
@@ -8,7 +8,7 @@ class Database
 	function __construct()
 	{
 		$this->db = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
-		$this->set_charset("utf8");
+		$this->db->set_charset("utf8");
 	}
 }
 

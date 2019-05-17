@@ -2301,12 +2301,12 @@ fieldset[disabled] .btn-template-primary.active {
   border-bottom: solid 1px #808080;
   top: 0;
 }
-.product:hover .buttons {
+/*.product:hover .buttons {
   clear: both;
   position: absolute;
   top: 0;
   background: rgba(255, 255, 255, 0.5);
-}
+}*/
 .product:hover .image img {
   -webkit-transform: scale(1.1, 1.1);
   -ms-transform: scale(1.1, 1.1);
