@@ -14,7 +14,7 @@
                     <div class="box-image-text blog">
                         <div class="top">
                             <div class="image">
-                                <img src="<?= $row['urlHinh'] ?>" alt="" class="img-responsive" onerror="this.src='<?= BASE_URL ?>defaultImg.jpg'">
+                                <img src="img/<?= $row['urlHinh'] ?>" alt="" class="img-responsive" onerror="this.src='img/<?= BASE_URL ?>defaultImg.jpg'">
                             </div>
                             <div class="bg"></div>
                             <div class="text">

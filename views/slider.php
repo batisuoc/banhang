@@ -7,42 +7,42 @@
             <div class="item">
                 <div class="row">
                     <div class="col-sm-12">
-                        <img class="img-responsive" src="slider/1.jpg">
+                        <img class="img-responsive" src="img/slider/1.jpg">
                     </div>   
                 </div>
              </div>
             <div class="item">
                 <div class="row">
                     <div class="col-sm-12">
-                        <img class="img-responsive" src="slider/2.jpg">
+                        <img class="img-responsive" src="img/slider/2.jpg">
                     </div>   
                 </div>
              </div>
              <div class="item">
                 <div class="row">
                     <div class="col-sm-12">
-                        <img class="img-responsive" src="slider/3.jpg">
+                        <img class="img-responsive" src="img/slider/3.jpg">
                     </div>   
                 </div>
              </div>
              <div class="item">
                 <div class="row">
                     <div class="col-sm-12">
-                        <img class="img-responsive" src="slider/4.jpg">
+                        <img class="img-responsive" src="img/slider/4.jpg">
                     </div>   
                 </div>
              </div>
             <div class="item">
                 <div class="row">
                     <div class="col-sm-12">
-                        <img class="img-responsive" src="slider/5.jpg">
+                        <img class="img-responsive" src="img/slider/5.jpg">
                     </div>   
                 </div>
              </div>
              <div class="item">
                 <div class="row">
                     <div class="col-sm-12">
-                        <img class="img-responsive" src="slider/6.jpg">
+                        <img class="img-responsive" src="img/slider/6.jpg">
                     </div>   
                 </div>
              </div>

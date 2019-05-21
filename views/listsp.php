@@ -4,7 +4,7 @@
             <div class="product">
                 <div class="image">
                     <a href="shop-detail.html">
-                        <img src="<?= BASE_URL."upload/hinhchinh/".$row['urlHinh']?>" alt="" class="img-responsive image1">
+                        <img src="<?= BASE_URL."/img/upload/hinhchinh/".$row['urlHinh']?>" alt="" class="img-responsive image1">
                     </a>
                 </div>
                 <!-- /.image -->
